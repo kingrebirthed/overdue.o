@@ -1,3 +1,5 @@
 
-Run:
+Build:
 gcc -o app main.c -lncurses
+
+
